@@ -1,0 +1,17 @@
+{
+    "name": "calligraffitti-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Open Window"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/calligraffitti-bower.git"
+    },
+    "description": "Calligraffitti font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
